@@ -1,4 +1,5 @@
-
+# arch-scripts
+*arch-scripts* is a collection of shell scripts 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTI3ODg3MF19
+eyJoaXN0b3J5IjpbMTk1NDI4NTMxNSwxMjc1Mjc4ODcwXX0=
 -->
