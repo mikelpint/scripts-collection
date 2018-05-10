@@ -11,8 +11,11 @@ Available operations:
 - **help, h**:  Prints the man page for the script.
 
 ## Supported AUR helpers
-These are the AUR helpers that are currently supported 
+These are the AUR helpers that are currently supported:
+- [Trizen]
+-  [Yay]()
+-  [Aura](https://github.com/aurapm/aura)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDA0MTc3MjUsLTk1MTI2MDM0NCwxOT
+eyJoaXN0b3J5IjpbLTE2MzU0MDc2NjAsLTk1MTI2MDM0NCwxOT
 M1NjI2NDcsMTgxNzk2NTA5NiwxNTEzMjg0MjcwXX0=
 -->
