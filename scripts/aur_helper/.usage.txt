@@ -1,0 +1,8 @@
+Usage: aur_helper.sh <operation> [target]
+
+Operations:
+    help, h
+    install, i
+    uninstall, u
+
+Use "aur_helper.sh help" for more information.
