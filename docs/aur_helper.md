@@ -12,10 +12,10 @@ Available operations:
 
 ## Supported AUR helpers
 These are the AUR helpers that are currently supported:
-- [Trizen]
--  [Yay]()
--  [Aura](https://github.com/aurapm/aura)
+- [Trizen](https://github.com/trizen)
+- [Yay](https://github.com/Jguer/yay)
+- [Aura](https://github.com/aurapm/aura)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzU0MDc2NjAsLTk1MTI2MDM0NCwxOT
-M1NjI2NDcsMTgxNzk2NTA5NiwxNTEzMjg0MjcwXX0=
+eyJoaXN0b3J5IjpbLTgwNzM2ODczMCwtOTUxMjYwMzQ0LDE5Mz
+U2MjY0NywxODE3OTY1MDk2LDE1MTMyODQyNzBdfQ==
 -->
