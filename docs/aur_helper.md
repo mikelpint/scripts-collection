@@ -9,7 +9,10 @@ Available operations:
 - **install, i**:  Use this to install or update one of the supported AUR helpers.
 - **uninstall, u**:  Use this to uninstall one of the supported AUR helpers.
 - **help, h**:  Prints the man page for the script.
+
+## Supported AUR helpers
+These are the AUR helpers that are currently supported 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MzI0ODE2NCwtOTUxMjYwMzQ0LDE5Mz
-U2MjY0NywxODE3OTY1MDk2LDE1MTMyODQyNzBdfQ==
+eyJoaXN0b3J5IjpbLTE2NDA0MTc3MjUsLTk1MTI2MDM0NCwxOT
+M1NjI2NDcsMTgxNzk2NTA5NiwxNTEzMjg0MjcwXX0=
 -->
