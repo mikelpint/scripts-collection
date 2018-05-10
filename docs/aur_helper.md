@@ -6,8 +6,9 @@ The syntax of this script is pretty simple and inspired in npm's:
 `aur_helper.sh <operation> [target]`
 
 Available operations:
-- **install, i**
+- **install, i**:  Use this to install or update one of the supported AUR helpers.
+- **uninstall, u**: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjc5MzI0MjMsMTkzNTYyNjQ3LDE4MT
-c5NjUwOTYsMTUxMzI4NDI3MF19
+eyJoaXN0b3J5IjpbLTUzMTA5MTE1OSwxOTM1NjI2NDcsMTgxNz
+k2NTA5NiwxNTEzMjg0MjcwXX0=
 -->
