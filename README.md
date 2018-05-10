@@ -4,8 +4,7 @@
 ## List of scripts:
 - [aur_helper](/scripts/aur_helper):  Install and uninstall some AUR helpers.
 
-For more information about them see their respective documents in the [*docs*](/docs) folder.
+For more information about them read their respective documents in the [*docs*](/docs) folder.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDE3MTMwNDUsLTE5ODk1ODEyMzIsMT
-I3NTI3ODg3MF19
+eyJoaXN0b3J5IjpbLTE5MzQxMjI4MTZdfQ==
 -->
