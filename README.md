@@ -2,10 +2,10 @@
 *arch-scripts* is a collection of shell scripts that make easier using Arch Linux.
 
 ## List of scripts:
-- [/scripts](aur_helper.sh):
+- [aur_helper](/scripts):
 
 For more information about them
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTA4Mzk1MiwtMTk4OTU4MTIzMiwxMj
+eyJoaXN0b3J5IjpbLTY0NjMxMjY2OSwtMTk4OTU4MTIzMiwxMj
 c1Mjc4ODcwXX0=
 -->
