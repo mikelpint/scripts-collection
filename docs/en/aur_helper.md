@@ -1,5 +1,7 @@
 # aur_helper.sh
 
+Install, uninstall and update some AUR helpers.
+
 ## How to use
 The syntax of this script is pretty simple and it is inspired in npm's:
 
