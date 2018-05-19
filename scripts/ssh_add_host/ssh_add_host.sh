@@ -8,7 +8,6 @@ set CUSTOM_IDENTITY_FILE
 set CUSTOM_PORT
 #
 
-
 if [ ! -f ~/.ssh/config ]
 then
     touch ~/.ssh/config
