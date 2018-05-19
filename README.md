@@ -1,10 +1,7 @@
-# arch-scripts
-*arch-scripts* is a collection of shell scripts that make easier using Arch Linux.
+# scripts-collection
+*scripts-collection* es una collección de shell scripts cuyo objetivo consiste en facilitar el uso de algunos sistemas.
 
-## List of scripts:
-- [aur_helper](/scripts/aur_helper):  Install and uninstall some AUR helpers.
+## Lista de scripts:
+- [aur_helper](/scripts/aur_helper):  Instalar, desinstalar y actualizar gestores de paquetes para AUR.
 
 For more information about them read their respective documents in the [*docs*](/docs) folder.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQxMjI4MTZdfQ==
--->
