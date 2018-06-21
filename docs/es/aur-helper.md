@@ -1,4 +1,4 @@
-# aur_helper.sh
+# aur-helper.sh
 
 Instala, actualiza y desinstala gestores de paquetes de AUR.
 

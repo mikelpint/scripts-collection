@@ -1,4 +1,4 @@
-# aur_helper.sh
+# aur-helper.sh
 
 Install, uninstall and update some AUR helpers.
 

@@ -1,16 +1,21 @@
 #!/bin/bash
 
+# SHOW QUICK HELP
 if [ "$1" == "" ]
 then
     cat .usage.txt
     exit 1
 
+# SHOW MANPAGE
 elif [ \( "$1" == "help" \) -o \( "$1" == "h" \) ]
 then
     man ./.aur_helper.sh.8
 
+# INSTALL OR UPDATE AN AUR HELPER
 elif [ \( "$1" == "install" \) -o \( "$1" == "i" \) ] 
 then
+
+## INSTALL OR UPDATE TRIZEN 
     if [ "$2" == "trizen" ]
     then
         {
@@ -28,6 +33,7 @@ then
 
         echo "Installation completed!"
 
+## INSTALL OR UPDATE AURA
     elif [ "$2" == "aura" ]
     then
         {
@@ -57,6 +63,7 @@ then
 
         echo "Installation completed!"
 
+## INSTALL OR UPDATE YAY
     elif [ "$2" == "yay" ]
     then
         {
@@ -89,8 +96,11 @@ then
         echo "Installation completed!"
     fi
 
+# UNINSTALL AN AUR HELPER
 elif [ \( "$1" == "uninstall" \) -o \( "$1" == "u" \) ]
 then
+
+## UNINSTALL TRIZEN
     if [ "$2" == "trizen" ]
     then
         {
@@ -107,6 +117,7 @@ then
 
         echo "Uninstallation completed."
 
+## UINSTALL AURA
     elif [ "$2" == "aura" ] 
     then
         {
@@ -124,7 +135,8 @@ then
         } &> /dev/null
 
         echo "Uninstallation completed."
-    
+
+## UNINSTALL YAY    
     elif [ "$2" == "yay" ]
     then
         {
